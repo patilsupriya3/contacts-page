@@ -34,6 +34,8 @@ public class ConPage
             //WebElement newContact1=driver.findElement(By.xpath("//a[contains(text(),'New Contact')]"));
             //newContact1.click();
            Thread.sleep(5000);
+        
+         System.out.println("This is git pull Change");
 
 
         }
